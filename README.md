@@ -1,12 +1,9 @@
 # Startpage
 
-[Live Preview](https://kencx.github.io/startpage/)
+[Live Preview](https://idevtier.github.io/startpage/)
 
 Feel free to fork and make your own changes!
 
-- Font: Fira Code
-- Colorscheme: Gruvbox Dark
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
-
-![startpage](startpage.gif)
+- Font: Iosevka SS04
+- Colorscheme: One dark
 
